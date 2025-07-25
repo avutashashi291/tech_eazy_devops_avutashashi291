@@ -1,5 +1,5 @@
 # tech_eazy_devops_avutashashi291
-Automate EC2 Deployment using Terraform & Shell Scripts
+Automate EC2 Deployment 
 📌 Assignment Objective
 This project automates the provisioning of an AWS EC2 instance using Terraform, installs dependencies, deploys a Spring Boot application from GitHub, and performs lifecycle management like scheduled shutdown — all without hardcoding secrets.
 
